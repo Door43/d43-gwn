@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gwn:home|Door43 (gwn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gwn|d43-gwn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gwn/archive/master.zip|d43-gwn.zip]]
+
+**Recent Changes**
+{{changes>ns = gwn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gwn|Ethnologue data]]
+
